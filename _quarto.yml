@@ -2,18 +2,17 @@ project:
   type: website
 
 website:
-  title: "resume"
+  title: "Nick Price"
   navbar:
+    background: black
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - mt_whitney.qmd
 format:
   html:
-    theme: cosmo
     css: styles.css
     toc: true
-
 
 

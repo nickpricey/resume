@@ -1,7 +1,16 @@
 ---
-title: "resume"
+about:
+  id: hero-heading
+  template: broadside
+  image: oliver.jpg
 ---
 
-This is a Quarto website.
+:::{#hero-heading, height="100%"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Kia Ora Im Nick Price. Im currently the Principal Data Analyst for the National Investigtion Centre at Te Whatu Ora
+
+:::
+
+## Education
+
+MSc Physical Geography
