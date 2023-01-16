@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <fileIdentifier>
+        <gco:CharacterString>7e3c4708e76b42d9a60365ed4ab795d2</gco:CharacterString>
+    </fileIdentifier>
+    <language>
+        <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+    </language>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact>
+        <CI_ResponsibleParty>
+            <organisationName>
+                <gco:CharacterString>USFS Chief Information Office, Enterprise Data Warehouse</gco:CharacterString>
+            </organisationName>
+            <contactInfo>
+                <CI_Contact>
+                    <phone>
+                        <CI_Telephone>
+                            <voice>
+                                <gco:CharacterString>Please send an e-mail to the address below.</gco:CharacterString>
+                            </voice>
+                        </CI_Telephone>
+                    </phone>
+                    <address>
+                        <CI_Address>
+                            <city>
+                                <gco:CharacterString>Washington</gco:CharacterString>
+                            </city>
+                            <administrativeArea>
+                                <gco:CharacterString>DC</gco:CharacterString>
+                            </administrativeArea>
+                            <postalCode>
+                                <gco:CharacterString>20250</gco:CharacterString>
+                            </postalCode>
+                            <electronicMailAddress>
+                                <gco:CharacterString>SM.FS.data@usda.gov</gco:CharacterString>
+                            </electronicMailAddress>
+                        </CI_Address>
+                    </address>
+                </CI_Contact>
+            </contactInfo>
+            <role>
+                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+            </role>
+        </CI_ResponsibleParty>
+    </contact>
+    <dateStamp>
+        <gco:Date>2017-09-29</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <spatialRepresentationInfo>
+        <MD_VectorSpatialRepresentation>
+            <geometricObjects>
+                <MD_GeometricObjects>
+                    <geometricObjectType gco:nilReason="missing"/>
+                    <geometricObjectCount>
+                        <gco:Integer>447</gco:Integer>
+                    </geometricObjectCount>
+                </MD_GeometricObjects>
+            </geometricObjects>
+        </MD_VectorSpatialRepresentation>
+    </spatialRepresentationInfo>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>National Wilderness Areas</gco:CharacterString>
+                    </title>
+                    <date>
+                        <CI_Date>
+                            <date>
+                                <gco:DateTime>2015-12-27T06:40:21</gco:DateTime>
+                            </date>
+                            <dateType>
+                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                            </dateType>
+                        </CI_Date>
+                    </date>
+                    <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                            <organisationName>
+                                <gco:CharacterString>Automated Lands Program (ALP)</gco:CharacterString>
+                            </organisationName>
+                            <role>
+                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                            </role>
+                        </CI_ResponsibleParty>
+                    </citedResponsibleParty>
+                    <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                            <organisationName>
+                                <gco:CharacterString>U.S. Forest Service</gco:CharacterString>
+                            </organisationName>
+                            <role>
+                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                            </role>
+                        </CI_ResponsibleParty>
+                    </citedResponsibleParty>
+                    <presentationForm>
+                        <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+                    </presentationForm>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>A map service depicting parcels of Forest Service land congressionally designated as wilderness such as National Wilderness Areas. This map service provides display, identification, and analysis tools for determining current boundary information for Forest Service managers, GIS Specialists, and others. The map service uses a File Geodatabase data source with Web Mercator projection.�Metadata and Downloads</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>US Forest Service National Wilderness Areas</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>US Forest Service Enterprise Map Services Program</gco:CharacterString>
+            </credit>
+            <status>
+                <MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+            </status>
+            <pointOfContact>
+                <CI_ResponsibleParty>
+                    <organisationName>
+                        <gco:CharacterString>USFS Chief Information Office, Enterprise Data Warehouse</gco:CharacterString>
+                    </organisationName>
+                    <contactInfo>
+                        <CI_Contact>
+                            <phone>
+                                <CI_Telephone>
+                                    <voice>
+                                        <gco:CharacterString>Please send an e-mail to the address below.</gco:CharacterString>
+                                    </voice>
+                                </CI_Telephone>
+                            </phone>
+                            <address>
+                                <CI_Address>
+                                    <city>
+                                        <gco:CharacterString>Washington</gco:CharacterString>
+                                    </city>
+                                    <administrativeArea>
+                                        <gco:CharacterString>DC</gco:CharacterString>
+                                    </administrativeArea>
+                                    <postalCode>
+                                        <gco:CharacterString>20250</gco:CharacterString>
+                                    </postalCode>
+                                    <electronicMailAddress>
+                                        <gco:CharacterString>SM.FS.data@usda.gov</gco:CharacterString>
+                                    </electronicMailAddress>
+                                </CI_Address>
+                            </address>
+                        </CI_Contact>
+                    </contactInfo>
+                    <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+                    </role>
+                </CI_ResponsibleParty>
+            </pointOfContact>
+            <resourceMaintenance>
+                <MD_MaintenanceInformation>
+                    <maintenanceAndUpdateFrequency>
+                        <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="weekly" codeSpace="ISOTC211/19115">weekly</MD_MaintenanceFrequencyCode>
+                    </maintenanceAndUpdateFrequency>
+                </MD_MaintenanceInformation>
+            </resourceMaintenance>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>boundaries</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                    <thesaurusName>
+                        <CI_Citation>
+                            <title>
+                                <gco:CharacterString>ISO 19115 Topic Categories</gco:CharacterString>
+                            </title>
+                            <date gco:nilReason="missing"/>
+                        </CI_Citation>
+                    </thesaurusName>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>ALP Land Dataset</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Land Status</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wilderness Name</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>NFS Lands</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>USDA Forest Service</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wilderness</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>ALP Land Dataset</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Land Status</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wilderness Name</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>NFS Lands</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>USDA Forest Service</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wilderness</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>ALP Land Dataset</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Land Status</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wilderness Name</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>NFS Lands</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>USDA Forest Service</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wilderness</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>ALP Land Dataset</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Land Status</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wilderness Name</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>NFS Lands</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>USDA Forest Service</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wilderness</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>ALP Land Dataset</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Land Status</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wilderness Name</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>NFS Lands</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>USDA Forest Service</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wilderness</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>ALP Land Dataset</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Land Status</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wilderness Name</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>NFS Lands</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>USDA Forest Service</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wilderness</gco:CharacterString>
+                    </keyword>
+                    <type>
+                        <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+                    </type>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>The USDA Forest Service makes no warranty, expressed or implied, including the warranties of merchantability and fitness for a particular purpose, nor assumes any legal liability or responsibility for the accuracy, reliability, completeness or utility of these geospatial data, or for the improper or incorrect use of these geospatial data. These geospatial data and related maps or graphics are not legal documents and are not intended to be used as such. The data and maps may not be used to determine title, ownership, legal descriptions or boundaries, legal jurisdiction, or restrictions that may be in place on either public or private land. Natural hazards may or may not be depicted on the data and maps, and land users should exercise due caution. The data are dynamic and may change over time. The user is responsible to verify the limitations of the geospatial data and to use the data accordingly.
+
+As a work of the United States Government, these data are within the public domain of the United States. Additionally, The U.S. Forest Service waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at https://creativecommons.org/publicdomain/zero/1.0/).</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>The USDA Forest Service makes no warranty, expressed or implied, including the warranties of merchantability and fitness for a particular purpose, nor assumes any legal liability or responsibility for the accuracy, reliability, completeness or utility of these geospatial data, or for the improper or incorrect use of these geospatial data. These geospatial data and related maps or graphics are not legal documents and are not intended to be used as such. The data and maps may not be used to determine title, ownership, legal descriptions or boundaries, legal jurisdiction, or restrictions that may be in place on either public or private land. Natural hazards may or may not be depicted on the data and maps, and land users should exercise due caution. The data are dynamic and may change over time. The user is responsible to verify the limitations of the geospatial data and to use the data accordingly.</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <spatialRepresentationType>
+                <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+            </spatialRepresentationType>
+            <language>
+                <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+            </language>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <topicCategory>
+                <MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+            </topicCategory>
+            <environmentDescription>
+                <gco:CharacterString>Esri ArcGIS 10.3.1.4959</gco:CharacterString>
+            </environmentDescription>
+            <extent>
+                <EX_Extent>
+                    <description>
+                        <gco:CharacterString>Publication Date</gco:CharacterString>
+                    </description>
+                    <temporalElement>
+                        <EX_TemporalExtent>
+                            <extent>
+                                <gml:TimeInstant gml:id="N65688">
+                                    <gml:timePosition>2015-12-27</gml:timePosition>
+                                </gml:TimeInstant>
+                            </extent>
+                        </EX_TemporalExtent>
+                    </temporalElement>
+                </EX_Extent>
+            </extent>
+            <extent>
+                <EX_Extent>
+                    <geographicElement>
+                        <EX_GeographicBoundingBox>
+                            <westBoundLongitude>
+                                <gco:Decimal>-139.64067</gco:Decimal>
+                            </westBoundLongitude>
+                            <eastBoundLongitude>
+                                <gco:Decimal>-65.77081</gco:Decimal>
+                            </eastBoundLongitude>
+                            <southBoundLatitude>
+                                <gco:Decimal>18.248406</gco:Decimal>
+                            </southBoundLatitude>
+                            <northBoundLatitude>
+                                <gco:Decimal>59.999703</gco:Decimal>
+                            </northBoundLatitude>
+                        </EX_GeographicBoundingBox>
+                    </geographicElement>
+                </EX_Extent>
+            </extent>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <distributionInfo>
+        <MD_Distribution>
+            <distributor>
+                <MD_Distributor>
+                    <distributorContact>
+                        <CI_ResponsibleParty>
+                            <organisationName>
+                                <gco:CharacterString>USFS Chief Information Office, Enterprise Data Warehouse</gco:CharacterString>
+                            </organisationName>
+                            <contactInfo>
+                                <CI_Contact>
+                                    <phone>
+                                        <CI_Telephone>
+                                            <voice>
+                                                <gco:CharacterString>Please send an e-mail to the address below.</gco:CharacterString>
+                                            </voice>
+                                        </CI_Telephone>
+                                    </phone>
+                                    <address>
+                                        <CI_Address>
+                                            <city>
+                                                <gco:CharacterString>Washington</gco:CharacterString>
+                                            </city>
+                                            <administrativeArea>
+                                                <gco:CharacterString>DC</gco:CharacterString>
+                                            </administrativeArea>
+                                            <postalCode>
+                                                <gco:CharacterString>20250</gco:CharacterString>
+                                            </postalCode>
+                                            <electronicMailAddress>
+                                                <gco:CharacterString>SM.FS.data@usda.gov</gco:CharacterString>
+                                            </electronicMailAddress>
+                                        </CI_Address>
+                                    </address>
+                                </CI_Contact>
+                            </contactInfo>
+                            <role>
+                                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+                            </role>
+                        </CI_ResponsibleParty>
+                    </distributorContact>
+                </MD_Distributor>
+            </distributor>
+            <transferOptions>
+                <MD_DigitalTransferOptions>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>https://apps.fs.usda.gov/arcx/rest/services/EDW/EDW_Wilderness_01/MapServer</URL>
+                            </linkage>
+                        </CI_OnlineResource>
+                    </onLine>
+                </MD_DigitalTransferOptions>
+            </transferOptions>
+        </MD_Distribution>
+    </distributionInfo>
+    <dataQualityInfo>
+        <DQ_DataQuality>
+            <scope>
+                <DQ_Scope>
+                    <level>
+                        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+                    </level>
+                </DQ_Scope>
+            </scope>
+            <report>
+                <DQ_DomainConsistency>
+                    <evaluationMethodDescription>
+                        <gco:CharacterString>Quality control measures taken: this feature class is populated by an automated translation process from the source feature class that is edited and maintained by the data stewards. Only stewards with the proper role grants can edit the data. The application used for editing has built in controls to only allow valid geometry and domains to control attribute integrity.</gco:CharacterString>
+                    </evaluationMethodDescription>
+                    <result gco:nilReason="missing"/>
+                </DQ_DomainConsistency>
+            </report>
+            <report>
+                <DQ_ConceptualConsistency>
+                    <measureDescription>
+                        <gco:CharacterString>Quality control measures taken: this feature class is populated by an automated translation process from the source feature class that is edited and maintained by the data stewards. Only stewards with the proper role grants can edit the data. The application used for editing has built in controls to only allow valid geometry and domains to control attribute integrity.</gco:CharacterString>
+                    </measureDescription>
+                    <result gco:nilReason="missing"/>
+                </DQ_ConceptualConsistency>
+            </report>
+            <report>
+                <DQ_CompletenessOmission>
+                    <measureDescription>
+                        <gco:CharacterString>This theme is current to date of publication.</gco:CharacterString>
+                    </measureDescription>
+                    <result gco:nilReason="missing"/>
+                </DQ_CompletenessOmission>
+            </report>
+            <report>
+                <DQ_QuantitativeAttributeAccuracy>
+                    <measureDescription>
+                        <gco:CharacterString>The Regional Land Status personnel are responsible for their local data stewardship and maintenance. The overall collection nationwide consists of 100% attribute accuracy based on currentness and completeness.</gco:CharacterString>
+                    </measureDescription>
+                    <result gco:nilReason="missing"/>
+                </DQ_QuantitativeAttributeAccuracy>
+            </report>
+            <report>
+                <DQ_AbsoluteExternalPositionalAccuracy>
+                    <measureDescription>
+                        <gco:CharacterString>Generally the source information used to record spatial locations are from: 1) on-screen digitizing with a georeferenced topographic or image background; or 2) GPS field collected positions.</gco:CharacterString>
+                    </measureDescription>
+                    <result gco:nilReason="missing"/>
+                </DQ_AbsoluteExternalPositionalAccuracy>
+            </report>
+            <lineage>
+                <LI_Lineage>
+                    <processStep>
+                        <LI_ProcessStep>
+                            <description>
+                                <gco:CharacterString>This data was published using Feature Manipulation Engine Software. The spatial features were extracted from the transactional database, manipulated to meet the desired output format and published to the target feature class. This data was migrated from the CDW. The spatial features were projected and imported into the target feature class.</gco:CharacterString>
+                            </description>
+                            <dateTime>
+                                <gco:DateTime>2015-12-27T00:00:00</gco:DateTime>
+                            </dateTime>
+                        </LI_ProcessStep>
+                    </processStep>
+                </LI_Lineage>
+            </lineage>
+        </DQ_DataQuality>
+    </dataQualityInfo>
+</MD_Metadata>

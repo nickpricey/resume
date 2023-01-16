@@ -1,0 +1,38 @@
+{
+  "id" : null,
+  "firstName" : "Nick",
+  "middleName" : null,
+  "lastName" : "Price",
+  "fullName" : "Nick Price",
+  "namePrefix" : null,
+  "nameSuffix" : null,
+  "gender" : null,
+  "displayName" : null,
+  "username" : "NICKPRICEY@GMAIL.COM",
+  "primaryAddress" : null,
+  "primaryEmailAddress" : {
+    "emailAddress" : "nickpricey@gmail.com",
+    "type" : null,
+    "primary" : true,
+    "emailVerified" : true,
+    "emailVerificationTimestamp" : "2019-12-16T02:21:55Z",
+    "emailAddressId" : "8acd897b-8410-4794-9b16-ac5225fbcbd7"
+  },
+  "primaryPhoneNumber" : null,
+  "locale" : "en_US",
+  "type" : null,
+  "active" : true,
+  "version" : 113,
+  "lastUpdateDateTime" : "2019-12-16T02:21:56Z",
+  "createdDate" : "2019-04-16T02:06:59Z",
+  "customerLocation" : {
+    "countryCode" : "US",
+    "verified" : false,
+    "verifiedTimestamp" : null
+  },
+  "addresses" : [ ],
+  "emailAddresses" : [ ],
+  "phoneNumbers" : [ ],
+  "foreignIdentifiers" : [ ],
+  "loginInfo" : null
+}

@@ -1,0 +1,17 @@
+---
+title: "Mt Whitney"
+format:
+  html:
+    toc: true
+    css: styles.css
+    title-block-banner: washington.JPG
+---
+
+![Caption](Pct-logo.svg)
+
+In 2019 my partner and I walked the [Pacific Crest Trail ](https://en.wikipedia.org/wiki/Pacific_Crest_Trail), a 2,653 mi (4,270 km) long hiking trail that starts at the Mexican/US border and ends at the Candian/US border.  One of the 
+
+```r
+
+
+```

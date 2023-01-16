@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nick Price",
+    "section": "",
+    "text": ":::{#hero-heading, height=“100%”}\nKia Ora Im Nick Price. Im currently the Principal Data Analyst for the National Investigtion Centre at Te Whatu Ora\n:::"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nick Price",
+    "section": "Education",
+    "text": "Education\nMSc Physical Geography"
+  },
+  {
+    "objectID": "mt_whitney.html",
+    "href": "mt_whitney.html",
+    "title": "Mt Whitney",
+    "section": "",
+    "text": "Caption\n\n\nIn 2019 my partner and I walked the Pacific Crest Trail, a 2,653 mi (4,270 km) long hiking trail that starts at the Mexican/US border and ends at the Candian/US border. One of the"
+  }
+]

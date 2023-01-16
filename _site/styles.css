@@ -1,0 +1,22 @@
+/* body{
+background-image: url("washington.JPG") !important;
+width: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+opacity: .2;
+
+}
+*/
+
+div.quarto-about-marquee {
+
+width: 100% !important;  
+margin: 50px !important;  
+}
+
+#title-block-header {
+
+    height: 350px;
+
+}
